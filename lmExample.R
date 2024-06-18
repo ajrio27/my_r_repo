@@ -5,4 +5,4 @@ summary(fit)
 
 plot(x,y)
 abline(fit, col=2)
-
+getwd()
